@@ -119,27 +119,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Legend of Zelda - Link_1
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 306
-        width: 2
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2fdb8d4777539744294c834640fb1efe
-      internalID: -1622282485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Link - Back2
       rect:
         serializedVersion: 2
@@ -240,69 +219,6 @@ TextureImporter:
       bones: []
       spriteID: d839cb18c52f567459755fd78e18d4d0
       internalID: -338874884
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NES - The Legend of Zelda - Link_0
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 283
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 854cdd4e3761c064ba43234698bf6972
-      internalID: -2131959075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NES - The Legend of Zelda - Link_2
-      rect:
-        serializedVersion: 2
-        x: 141
-        y: 283
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4cb4b8b0d74e949448b9a33b49963894
-      internalID: -1193711831
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NES - The Legend of Zelda - Link_3
-      rect:
-        serializedVersion: 2
-        x: 124
-        y: 283
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9e40e66303a4e34f8d934bc4ac3166f
-      internalID: 471265399
       vertices: []
       indices: 
       edges: []
