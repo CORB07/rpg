@@ -17,7 +17,7 @@ public class moveCamera : MonoBehaviour
         Debug.Log("Collided with: " + otherObj); 
     }*/
 
-    private void Start()
+    void Start()
     {
         Camera.main.transform.position = new Vector3(0, 0, -10);
     }
