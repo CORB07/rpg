@@ -18,12 +18,17 @@ public class moveCamera : MonoBehaviour
     }*/
 
 
-    private void OnTriggerEnter2D(Collider2D collider)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         //TODO: make sure it triggers with PLAYER only
-        GameObject otherObj = collider.gameObject;
+        GameObject otherObj = other.gameObject;
         Debug.Log("Triggered with: " + otherObj);
 
-        Camera.main.transform.position = new Vector3(_newcamposx, _newcamposy, _newcamposz);
+
+        if (other.CompareTag("Player"))
+        {
+            Camera.main.transform.position = new Vector3(_newcamposx, _newcamposy, _newcamposz);
+        }
+        
     }
 }

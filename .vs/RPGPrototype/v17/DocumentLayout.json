@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +22,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "moveCamera.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\moveCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\moveCamera.cs",
               "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\moveCamera.cs",
               "RelativeToolTip": "Assets\\Scripts\\moveCamera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T16:11:11.054Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T16:19:19.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InputManager.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Input\\InputManager.cs",
               "RelativeDocumentMoniker": "Assets\\Input\\InputManager.cs",
