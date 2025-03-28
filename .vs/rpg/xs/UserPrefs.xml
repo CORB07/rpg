@@ -2,18 +2,17 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/moveCamera.cs">
     <Files>
       <File FileName="Assets/Input/InputManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Player/PlayerMovement.cs" Line="36" Column="10" />
+      <File FileName="Assets/Scripts/Player/PlayerMovement.cs" />
       <File FileName="Assets/Scripts/moveCamera.cs" Line="19" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="rpg" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Input" expanded="True" />
               <Node name="Scripts" expanded="True">
                 <Node name="Player" expanded="True" />
-                <Node name="moveCamera.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -23,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d74472a6-1b0f-4b40-b400-8ed2143b4e59" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="15980bde-f056-4a24-8fc3-ee138fbf8529" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

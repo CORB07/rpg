@@ -17,10 +17,6 @@ public class moveCamera : MonoBehaviour
         Debug.Log("Collided with: " + otherObj); 
     }*/
 
-    void Start()
-    {
-        Camera.main.transform.position = new Vector3(0, 0, -10);
-    }
 
     private void OnTriggerEnter2D(Collider2D collider)
     {
