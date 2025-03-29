@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{94C708C1-5F9E-2648-E605-8D49286552FD}|">
+﻿<Properties StartupConfiguration="{9C0131FC-A238-E430-E72A-E26D2140208E}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/moveCamera.cs">
     <Files>
       <File FileName="Assets/Input/InputManager.cs" Line="1" Column="1" />
@@ -9,10 +9,11 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="rpg" expanded="True">
-            <Node name="Assets" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
               <Node name="Input" expanded="True" />
               <Node name="Scripts" expanded="True">
                 <Node name="Player" expanded="True" />
+                <Node name="moveCamera.cs" selected="True" />
               </Node>
             </Node>
           </Node>
