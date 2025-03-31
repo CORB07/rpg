@@ -400,7 +400,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -421,7 +421,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -442,7 +442,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -450,6 +450,111 @@ TextureImporter:
       bones: []
       spriteID: e6a2ebff8c8d5c14db8d11b6e61f66db
       internalID: -322513199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House - 1
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0104935c2bf6b46a6d5c231b8b7694
+      internalID: -472332707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fortress1
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a2438487f16564aaafaa19fddd60b5
+      internalID: 1674515420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fortress4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca15c7d60face74d93ef55a9328efed
+      internalID: 922314190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fortress2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4a95a74dfa8634eab5a8e5df6beb06
+      internalID: 909261524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fortress3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55abaabf45b569944b94660cab235dbe
+      internalID: -1665124789
       vertices: []
       indices: 
       edges: []
@@ -468,8 +573,13 @@ TextureImporter:
       Bridge - 1: 1845542125
       Bridge - 2: 1654919760
       Bridge - 3: -108727577
+      Fortress1: 1674515420
+      Fortress2: 909261524
+      Fortress3: -1665124789
+      Fortress4: -852520431
       Grass - 1: 1918293777
       Grass - 2: 309020272
+      House - 1: -472332707
       Path: 1507785809
       Path - 2: 1218036123
       Stump - 1: -1476088501
@@ -482,7 +592,6 @@ TextureImporter:
       Tree - 3 - 1: 1254714503
       Tree - 3 - 2: 1379831370
       Water: -214004269
-      map_spritesheet_1: -852520431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
