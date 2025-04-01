@@ -7,7 +7,7 @@ public class moveCamera : MonoBehaviour
 {
     public float _newcamposx = 0;
     public float _newcamposy = 0;
-    public float _newcamposz = -10;
+    public float _newcamposz = -1;
 
 
 
