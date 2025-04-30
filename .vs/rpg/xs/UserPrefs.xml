@@ -1,9 +1,11 @@
-﻿<Properties StartupConfiguration="{9C0131FC-A238-E430-E72A-E26D2140208E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/moveCamera.cs">
+﻿<Properties StartupConfiguration="{94C708C1-5F9E-2648-E605-8D49286552FD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI/PauseManager2.cs">
     <Files>
       <File FileName="Assets/Input/InputManager.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Player/PlayerMovement.cs" />
-      <File FileName="Assets/Scripts/moveCamera.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/UI/StartScreenManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI/PauseManager.cs" Line="37" Column="2" />
+      <File FileName="Assets/Scripts/UI/PauseManager2.cs" Line="16" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +15,9 @@
               <Node name="Input" expanded="True" />
               <Node name="Scripts" expanded="True">
                 <Node name="Player" expanded="True" />
-                <Node name="moveCamera.cs" selected="True" />
+                <Node name="UI" expanded="True">
+                  <Node name="PauseManager2.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -23,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="15980bde-f056-4a24-8fc3-ee138fbf8529" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a4616548-ca6a-4ea2-99ea-72b3da4b0700" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
