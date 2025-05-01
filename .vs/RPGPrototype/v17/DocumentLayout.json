@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-04-30T16:08:06.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T16:08:06.352Z"
             },
             {
               "$type": "Document",
@@ -110,8 +109,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:19:19.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T16:19:19.16Z"
             },
             {
               "$type": "Document",
