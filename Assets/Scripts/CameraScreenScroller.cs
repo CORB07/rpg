@@ -1,22 +1,21 @@
-
 using UnityEngine;
 
 public class CameraScreenScroller : MonoBehaviour
 {
     public Transform player;
-    public float screenWidth;   // Set in world units
-    public float screenHeight;  // Set in world units
+    public float screenWidth = 14f;
+    public float screenHeight = 10f;
+
+    public Vector2 screenOrigin = new Vector2(-14f, -10f); // center of screen (0, 0)
+    public bool cameraActive = false;
 
     private Vector2Int currentScreen;
-    // Add this to the top of the class
-    public bool cameraActive = true;
 
     void Update()
     {
         if (!cameraActive) return;
 
         Vector2Int newScreen = GetPlayerScreen();
-
         if (newScreen != currentScreen)
         {
             currentScreen = newScreen;
@@ -24,33 +23,30 @@ public class CameraScreenScroller : MonoBehaviour
         }
     }
 
-
-    void Start()
-    {
-        yield return null;
-        currentScreen = GetPlayerScreen();
-        MoveCameraToScreen(currentScreen);
-
-    }
-
-   
-
     Vector2Int GetPlayerScreen()
     {
-        int x = Mathf.FloorToInt(player.position.x / screenWidth);
-        int y = Mathf.FloorToInt(player.position.y / screenHeight);
-        return new Vector2Int(x, y);
+        // Offset player position relative to origin and divide by screen size
+        float relativeX = player.position.x - screenOrigin.x;
+        float relativeY = player.position.y - screenOrigin.y;
+
+        int screenX = Mathf.RoundToInt(relativeX / screenWidth);
+        int screenY = Mathf.RoundToInt(relativeY / screenHeight);
+
+        return new Vector2Int(screenX, screenY);
     }
 
     void MoveCameraToScreen(Vector2Int screen)
     {
-        Vector3 newPos = new Vector3(
-            screen.x * screenWidth + screenWidth / 2f,
-            screen.y * screenHeight + screenHeight / 2f,
-            transform.position.z // Preserve Z
-        );
+        // Calculate center of the target screen
+        float camX = screenOrigin.x + screen.x * screenWidth;
+        float camY = screenOrigin.y + screen.y * screenHeight;
 
-        transform.position = newPos;
+        transform.position = new Vector3(camX, camY, transform.position.z);
+    }
+
+    public void ForceRefresh()
+    {
+        currentScreen = GetPlayerScreen();
+        MoveCameraToScreen(currentScreen);
     }
 }
-

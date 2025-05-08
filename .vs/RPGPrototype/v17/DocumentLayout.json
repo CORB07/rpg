@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\scripts\\ui\\startscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\startscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\scripts\\interiorcameratoglgle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interiorcameratoglgle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\moveCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\moveCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\scripts\\cameragridsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameragridsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\scripts\\exitbuildingtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exitbuildingtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\MoveLocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MoveLocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\scripts\\indoorcamerastart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\indoorcamerastart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\camerascreenscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerascreenscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\ui\\maptoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\maptoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\ui\\pausemanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pausemanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,90 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "moveCamera.cs",
-              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\moveCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\moveCamera.cs",
-              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\moveCamera.cs",
-              "RelativeToolTip": "Assets\\Scripts\\moveCamera.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T16:11:11.054Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StartScreenManager.cs",
-              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\StartScreenManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\StartScreenManager.cs",
-              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\StartScreenManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\StartScreenManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "InteriorCameraToglgle.cs",
+              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\InteriorCameraToglgle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteriorCameraToglgle.cs",
+              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\InteriorCameraToglgle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteriorCameraToglgle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T16:10:07.137Z",
+              "WhenOpened": "2025-05-08T16:07:23.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TMP_SDF-Mobile.shader",
-              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
-              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
-              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
-              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-04-30T16:08:06.352Z"
+              "DocumentIndex": 1,
+              "Title": "CameraGridSize.cs",
+              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\CameraGridSize.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraGridSize.cs",
+              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\CameraGridSize.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraGridSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:06:16.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NewBehaviourScript.cs",
-              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\NewBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\NewBehaviourScript.cs",
-              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\NewBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\NewBehaviourScript.cs",
+              "Title": "ExitBuildingTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\ExitBuildingTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExitBuildingTrigger.cs",
+              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\ExitBuildingTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExitBuildingTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T16:01:21.812Z"
+              "WhenOpened": "2025-05-08T16:02:02.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MoveLocation.cs",
-              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\MoveLocation.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveLocation.cs",
-              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\MoveLocation.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MoveLocation.cs",
+              "Title": "IndoorCameraStart.cs",
+              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\IndoorCameraStart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IndoorCameraStart.cs",
+              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\IndoorCameraStart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IndoorCameraStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:25:38.418Z"
+              "WhenOpened": "2025-05-08T16:00:31.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Title": "CameraScreenScroller.cs",
+              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\CameraScreenScroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraScreenScroller.cs",
+              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\CameraScreenScroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraScreenScroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:19:19.16Z"
+              "WhenOpened": "2025-05-08T15:42:26.045Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "InputManager.cs",
-              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Input\\InputManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Input\\InputManager.cs",
-              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Input\\InputManager.cs",
-              "RelativeToolTip": "Assets\\Input\\InputManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "PauseManager2.cs",
+              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\PauseManager2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PauseManager2.cs",
+              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\PauseManager2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PauseManager2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:06:52.944Z"
+              "WhenOpened": "2025-05-02T16:43:48.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapToggle.cs",
+              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\MapToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MapToggle.cs",
+              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\MapToggle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MapToggle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:21:01.448Z"
             }
           ]
         }

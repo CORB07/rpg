@@ -1,25 +1,18 @@
 using UnityEngine;
 
+
+[ExecuteAlways]
 public class CameraGridSize : MonoBehaviour
 {
-    public int gridHeight = 10;  // Number of tiles tall
-    public int gridWidth = 14;   // Number of tiles wide
-    public float tileSize = 1f;  // Set this to the size of one tile in world units
+    public float tileSize = 1f;
+    public int verticalTiles = 10;
 
-    void Start()
+    void Update()
     {
-        // Set the orthographic size based on grid height
-        Camera.main.orthographicSize = (gridHeight * tileSize) / 2f;
-
-        // Adjust camera width based on aspect ratio
-        float aspectRatio = (float)Screen.width / Screen.height;
-        float camWidth = gridHeight * aspectRatio;
-
-        // If the width doesn't match, adjust the camera size
-        if (camWidth < gridWidth)
+        Camera cam = GetComponent<Camera>();
+        if (cam != null && cam.orthographic)
         {
-            Camera.main.orthographicSize = (gridWidth / aspectRatio) / 2f;
+            cam.orthographicSize = (verticalTiles * tileSize) / 2f;
         }
     }
 }
-
