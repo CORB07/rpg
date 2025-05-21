@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fb9536d6cc281284594087968dede85d
+guid: ef03bfd4178e35e46bfa76edf211f4e3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1210321892256037470
-    second: Chest16x16_0
+      213: -6849673537499413600
+    second: Lightsaber_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
-  spriteBorder: {x: 121, y: 88, z: 121, w: 89}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -98,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Chest16x16_0
+      name: Lightsaber_0
       rect:
         serializedVersion: 2
-        x: 121
-        y: 88
-        width: 72
-        height: 72
+        x: 155
+        y: 0
+        width: 8
+        height: 105
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5abcc3395debc010800000000000000
-      internalID: 1210321892256037470
+      spriteID: 0a344f1753211f0a0800000000000000
+      internalID: -6849673537499413600
       vertices: []
       indices: 
       edges: []
@@ -121,15 +121,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    spriteID: 45c23543f292d51439a8608c742ff7d9
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Chest16x16_0: 1210321892256037470
+      Lightsaber_0: -6849673537499413600
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
