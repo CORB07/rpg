@@ -14,11 +14,13 @@ public class SwordHitbox : MonoBehaviour
  
 
     {
+        Debug.Log("Sword hit something: " + other.name);
         // Later: detect enemies and deal damage
-        if (other.CompareTag("Enemy"))
+        EnemyAI enemy = other.GetComponent<EnemyAI>();
+        if (enemy != null)
         {
-            Debug.Log("Hit Enemy for " + damage + " damage!");
-            // other.GetComponent<Enemy>().TakeDamage(damage);
+            Debug.Log("Hit an enemy! Dealing damage...");
+            enemy.TakeDamage(1); // or whatever damage value you want
         }
     }
 }
