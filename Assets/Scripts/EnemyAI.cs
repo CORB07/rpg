@@ -12,10 +12,10 @@ public class EnemyAI : MonoBehaviour
 
     public float moveSpeed = 1.5f;
     public int maxHealth = 3;
-    public int damage = 1;
+    public float damage = 1;
     public float detectionRange = 4f; // In tile units
 
-    private int currentHealth;
+    private float currentHealth;
     private Rigidbody2D rb;
     private Transform player;
     private Vector2 wanderDirection;
@@ -71,7 +71,7 @@ public class EnemyAI : MonoBehaviour
         wanderTimer = wanderInterval;
     }
 
-    public void TakeDamage(int amount)
+    public void TakeDamage(float amount)
     {
         currentHealth -= amount;
         Debug.Log($"{gameObject.name} took {amount} damage. Current health: {currentHealth}");
