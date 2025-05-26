@@ -2,14 +2,16 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public float health = 3;
+    public int currentHealth = 3;
     public GameOverManager gameOverManager; // Assign in Inspector
-    public void TakeDamage(float amount)
+    public PlayerHealthUI healthUI;
+    public void TakeDamage(int amount)
     {
-        health -= amount;
-        Debug.Log("Player took damage! Current health: " + health);
+        currentHealth -= amount;
+        healthUI.UpdateHearts(currentHealth);
+        Debug.Log("Player took damage! Current health: " + currentHealth);
 
-        if (health <= 0)
+        if (currentHealth <= 0)
         {
             Debug.Log("Player died!");
             gameOverManager.TriggerGameOver();
@@ -17,3 +19,4 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 }
+

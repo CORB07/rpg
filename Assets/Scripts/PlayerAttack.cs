@@ -18,6 +18,7 @@ public class PlayerAttack : MonoBehaviour
         {
             Jab();
         }
+        
     }
 
     void TrackMovementDirection()

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\itemchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\scripts\\itemchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\scripts\\swordhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|c:\\users\\stadec\\unity\\rpgprototype\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\swordhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swordhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C0131FC-A238-E430-E72A-E26D2140208E}|Assembly-CSharp.csproj|C:\\Users\\STADEC\\UNITY\\RPGPrototype\\assets\\scripts\\buiildingtransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,31 +70,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:11:35.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
               "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T16:20:55.818Z"
+              "WhenOpened": "2025-05-22T16:20:55.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
               "ToolTip": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowEwAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwBgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T16:17:26.433Z"
+              "WhenOpened": "2025-05-22T16:17:26.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ItemChest.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\ItemChest.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ItemChest.cs",
@@ -103,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PlayerAttack.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
@@ -115,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SwordHitbox.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\SwordHitbox.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SwordHitbox.cs",
@@ -123,12 +142,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SwordHitbox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T16:00:56.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T16:00:56.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BuiildingTransition.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\BuiildingTransition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BuiildingTransition.cs",
@@ -140,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "InteriorCameraToglgle.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\InteriorCameraToglgle.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteriorCameraToglgle.cs",
@@ -152,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CameraGridSize.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\CameraGridSize.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraGridSize.cs",
@@ -164,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ExitBuildingTrigger.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\ExitBuildingTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExitBuildingTrigger.cs",
@@ -172,11 +190,12 @@
               "RelativeToolTip": "Assets\\Scripts\\ExitBuildingTrigger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:02:02.173Z"
+              "WhenOpened": "2025-05-08T16:02:02.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IndoorCameraStart.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\IndoorCameraStart.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IndoorCameraStart.cs",
@@ -188,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CameraScreenScroller.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\CameraScreenScroller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraScreenScroller.cs",
@@ -200,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PauseManager2.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\PauseManager2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PauseManager2.cs",
@@ -212,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MapToggle.cs",
               "DocumentMoniker": "C:\\Users\\STADEC\\UNITY\\RPGPrototype\\Assets\\Scripts\\UI\\MapToggle.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MapToggle.cs",

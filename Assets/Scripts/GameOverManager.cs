@@ -28,5 +28,6 @@ public class GameOverManager : MonoBehaviour
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("Start_Screen"); // Replace with your actual scene name
+        SceneManager.LoadScene("Start_Screen"); // Replace with your actual scene name
     }
 }

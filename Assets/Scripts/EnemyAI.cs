@@ -12,7 +12,7 @@ public class EnemyAI : MonoBehaviour
 
     public float moveSpeed = 1.5f;
     public int maxHealth = 3;
-    public float damage = 1;
+    public int damage = 1;
     public float detectionRange = 4f; // In tile units
 
     private float currentHealth;
