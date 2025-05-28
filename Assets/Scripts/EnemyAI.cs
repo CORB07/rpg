@@ -1,6 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
+
 public class EnemyAI : MonoBehaviour
 
 {
@@ -22,6 +23,7 @@ public class EnemyAI : MonoBehaviour
     private float wanderTimer = 0f;
     private float wanderInterval = 2f;
 
+    public GameObject heartPickupPrefab;
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -87,6 +89,12 @@ public class EnemyAI : MonoBehaviour
     {
         Debug.Log(gameObject.name + " died!");
         Destroy(gameObject); // Removes the enemy from the scene
+
+        // Drop a heart
+        if (heartPickupPrefab != null)
+        {
+            Instantiate(heartPickupPrefab, transform.position, Quaternion.identity);
+        }
     }
 
     void OnCollisionEnter2D(Collision2D collision)

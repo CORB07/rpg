@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public int currentHealth = 3;
+    public int maxHealth = 12;
+    public int currentHealth = 12;
     public GameOverManager gameOverManager; // Assign in Inspector
     public PlayerHealthUI healthUI;
     public void TakeDamage(int amount)
@@ -16,6 +17,16 @@ public class PlayerHealth : MonoBehaviour
             Debug.Log("Player died!");
             gameOverManager.TriggerGameOver();
             // You can expand this later (death, respawn, etc.)
+        }
+    }
+    public void Heal(int amount)
+    {
+        currentHealth += amount;
+        currentHealth = Mathf.Min(currentHealth, maxHealth); // Cap at max
+
+        if (healthUI != null)
+        {
+            healthUI.UpdateHearts(currentHealth);
         }
     }
 }
