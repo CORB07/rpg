@@ -1,24 +1,23 @@
 ﻿<Properties StartupConfiguration="{94C708C1-5F9E-2648-E605-8D49286552FD}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InteriorCameraToglgle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ItemChest.cs">
     <Files>
       <File FileName="Assets/Input/InputManager.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Player/PlayerMovement.cs" />
       <File FileName="Assets/Scripts/UI/StartScreenManager.cs" />
-      <File FileName="Assets/Scripts/UI/PauseManager2.cs" Line="40" Column="1" />
-      <File FileName="Assets/Scripts/CameraScreenScroller.cs" Line="37" Column="4" />
-      <File FileName="Assets/Scripts/CameraGridSize.cs" Line="25" Column="1" />
-      <File FileName="Assets/Scripts/InteriorCameraToglgle.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/UI/PauseManager2.cs" />
+      <File FileName="Assets/Scripts/CameraScreenScroller.cs" />
+      <File FileName="Assets/Scripts/CameraGridSize.cs" />
+      <File FileName="Assets/Scripts/ItemChest.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="rpg" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Input" expanded="True" />
               <Node name="Scripts" expanded="True">
                 <Node name="Player" expanded="True" />
                 <Node name="UI" expanded="True" />
-                <Node name="InteriorCameraToglgle.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -28,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="79701c4d-6811-4c97-b63a-320920db22da" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0fd84b54-95a3-4397-9904-d65655dcf84e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
