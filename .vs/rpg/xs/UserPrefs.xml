@@ -7,7 +7,7 @@
       <File FileName="Assets/Scripts/UI/PauseManager2.cs" />
       <File FileName="Assets/Scripts/CameraScreenScroller.cs" />
       <File FileName="Assets/Scripts/CameraGridSize.cs" />
-      <File FileName="Assets/Scripts/ItemChest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ItemChest.cs" Line="9" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -27,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0fd84b54-95a3-4397-9904-d65655dcf84e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="00844f78-12d3-4f6e-8cc1-54ca7e8c78a2" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
