@@ -7,7 +7,7 @@
       <File FileName="Assets/Scripts/UI/PauseManager2.cs" />
       <File FileName="Assets/Scripts/CameraScreenScroller.cs" />
       <File FileName="Assets/Scripts/CameraGridSize.cs" />
-      <File FileName="Assets/Scripts/ItemChest.cs" Line="9" Column="33" />
+      <File FileName="Assets/Scripts/ItemChest.cs" Line="17" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
